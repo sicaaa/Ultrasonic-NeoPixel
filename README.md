@@ -1,6 +1,6 @@
 # ultrasonic x neopixel LED
 
-The aim of this project is to change the color of the NeoPixel LED regarding to the Ultrasonic Sensor HC-SR04 measurements.
+//The aim of this project is to change the color of the NeoPixel LED regarding to the Ultrasonic Sensor HC-SR04 measurements.
 
 <img width="2000" height="1333" alt="IMG_1099" src="https://github.com/user-attachments/assets/dd98a73c-1e24-4808-a69d-db059999a0e5" />
 
