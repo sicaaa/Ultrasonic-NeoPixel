@@ -12,9 +12,9 @@ The aim of this project is to change the color of the NeoPixel LED in regard to 
 
 ## Components
 
-Ultrasonic Sensor HC-SR04: [(https://botland.de/ultraschall-abstandssensoren/1420-ultraschall-abstandssensor-hc-sr04-2-200cm-justpi-5903351241366.html)]((https://botland.de/ultraschall-abstandssensoren/1420-ultraschall-abstandssensor-hc-sr04-2-200cm-justpi-5903351241366.html)
+Ultrasonic Sensor HC-SR04: (https://botland.de/ultraschall-abstandssensoren/1420-ultraschall-abstandssensor-hc-sr04-2-200cm-justpi-5903351241366.html)
 
-RGB LED: [[(https://botland.de)](https://botland.de/led-dioden/10617-neopixel-ws2812b-5mm-led-5st-adafrucht-1938-5904422301002.html)
+RGB LED: (https://botland.de/led-dioden/10617-neopixel-ws2812b-5mm-led-5st-adafrucht-1938-5904422301002.html)
 
 
 
